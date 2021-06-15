@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		082C4D940C5BFA9D1C6A606FAD99E41C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		21163DC2BB2203B749CF0D99D2EB1F42 /* TestPodDenow2-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E051ADE1AD37C7F408BAE8CB45DAC1C9 /* TestPodDenow2-dummy.m */; };
-		650D5C4C511F835A1C95DBEC5FA917C9 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28305A6A9F4A95CD216EE449B660D792 /* ReplaceMe.swift */; };
 		688F2DF4043FC2C0909AA4CCEB45A912 /* Pods-TestPodDenow2_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F51130E95D4E077DEE0655A416303CC /* Pods-TestPodDenow2_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84E071F9A82FC6DAB8856BA575C99D70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		8BAEFC47267885F100CD8CD3 /* DateConvertor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAEFC46267885F100CD8CD3 /* DateConvertor.swift */; };
 		8CDCBEB933211128CF822A548544E361 /* TestPodDenow2-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A9DFA8D1E0F9A0353183033FEA2E618E /* TestPodDenow2-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9C5CEFFE5AE5F1FC44BE10448276DDCC /* Pods-TestPodDenow2_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E0497B62241AC4358EBAA8625515FF7 /* Pods-TestPodDenow2_Example-dummy.m */; };
 		B9432ABBBA33AC66EEF0CEF57DE7CF1C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -41,7 +41,6 @@
 		16C6BC466F2621154EB0CF6B768F41E2 /* Pods-TestPodDenow2_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TestPodDenow2_Example-frameworks.sh"; sourceTree = "<group>"; };
 		19ECBAB28F83D1AD88DCBBAEA3556F52 /* Pods-TestPodDenow2_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestPodDenow2_Tests-Info.plist"; sourceTree = "<group>"; };
 		209E3C14CA7BEF5401E7E4F1EDB44D1C /* Pods-TestPodDenow2_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestPodDenow2_Example.release.xcconfig"; sourceTree = "<group>"; };
-		28305A6A9F4A95CD216EE449B660D792 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = TestPodDenow2/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		439A767EAEF8BF50792C516BEB9AB049 /* Pods-TestPodDenow2_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TestPodDenow2_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		440795699BBFED9D7EA8A1EC8A17FC41 /* Pods-TestPodDenow2_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestPodDenow2_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		46B6E558358DE0201695B628B70B39A8 /* TestPodDenow2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TestPodDenow2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -53,6 +52,7 @@
 		6E71D704ED8F823E24838E345D05AD10 /* Pods_TestPodDenow2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestPodDenow2_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8B2EAD9EF73A2EF2416900FF1B1111B8 /* TestPodDenow2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TestPodDenow2.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8BAEFC46267885F100CD8CD3 /* DateConvertor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateConvertor.swift; sourceTree = "<group>"; };
 		8E0497B62241AC4358EBAA8625515FF7 /* Pods-TestPodDenow2_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TestPodDenow2_Example-dummy.m"; sourceTree = "<group>"; };
 		94E6E3698E88400FA00DE60F9D567DB2 /* TestPodDenow2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TestPodDenow2-prefix.pch"; sourceTree = "<group>"; };
 		9533FF057D991ABA35F612ED69F921C9 /* Pods-TestPodDenow2_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestPodDenow2_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -154,6 +154,14 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		8BAEFC45267885F100CD8CD3 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				8BAEFC46267885F100CD8CD3 /* DateConvertor.swift */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		8D452C749D670503FDAE01043ED21B91 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -172,7 +180,7 @@
 		8E1A3E36EA3ECFCD540F513E1D7133ED /* TestPodDenow2 */ = {
 			isa = PBXGroup;
 			children = (
-				28305A6A9F4A95CD216EE449B660D792 /* ReplaceMe.swift */,
+				8BAEFC45267885F100CD8CD3 /* Source */,
 				0C13DA2B9452E0D82A98A5FFC47F3B9A /* Pod */,
 				8D452C749D670503FDAE01043ED21B91 /* Support Files */,
 			);
@@ -375,7 +383,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				650D5C4C511F835A1C95DBEC5FA917C9 /* ReplaceMe.swift in Sources */,
+				8BAEFC47267885F100CD8CD3 /* DateConvertor.swift in Sources */,
 				21163DC2BB2203B749CF0D99D2EB1F42 /* TestPodDenow2-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
