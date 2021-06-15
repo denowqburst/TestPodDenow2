@@ -1,0 +1,6 @@
+framework module TestPodDenow2 {
+  umbrella header "TestPodDenow2-umbrella.h"
+
+  export *
+  module * { export * }
+}

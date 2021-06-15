@@ -1,0 +1,16 @@
+PODS:
+  - TestPodDenow2 (0.1.0)
+
+DEPENDENCIES:
+  - TestPodDenow2 (from `../`)
+
+EXTERNAL SOURCES:
+  TestPodDenow2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPodDenow2: 5facd5186f32c1716a3a14257532bb20b5dec2a6
+
+PODFILE CHECKSUM: 6aaa0a94436c280e81953878b811fda1ff2a4c81
+
+COCOAPODS: 1.10.1
