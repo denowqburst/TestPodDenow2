@@ -32,6 +32,11 @@ DESC
 
   s.source_files = 'TestPodDenow2/Classes/**/*'
   
+  s.swift_version = '4.0'
+  s.platforms = {
+       "ios": "12.1"
+  }
+  
   # s.resource_bundles = {
   #   'TestPodDenow2' => ['TestPodDenow2/Assets/*.png']
   # }
