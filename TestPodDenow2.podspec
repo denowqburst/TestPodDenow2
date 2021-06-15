@@ -30,7 +30,7 @@ DESC
 
   s.ios.deployment_target = '12.1'
 
-  s.source_files = 'TestPodDenow2/Classes/**/*'
+  s.source_files = 'Source/**/*'
   
   s.swift_version = '4.0'
   s.platforms = {
