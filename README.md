@@ -22,7 +22,7 @@ pod 'TestPodDenow2'
 
 ## Author
 
-denowqburst, denow@qburst.com
+Denow, denow@qburst.com
 
 ## License
 
