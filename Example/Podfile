@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TestPodDenow2_Example' do
+  pod 'TestPodDenow2', :path => '../'
+
+  target 'TestPodDenow2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
